@@ -1,4 +1,4 @@
-# Arduino-Simulation
+**Arduino-Simulation**
 
 Welcome to my Arduino Simulation Projects repository! This repo contains various beginner-friendly Arduino projects simulated using Tinkercad. Each project includes PDF and schemitic view  for easier understanding. Whether you're a newbie exploring Arduino or just want some inspiration for your own projects, you’ll find this helpful! 
 
@@ -9,6 +9,11 @@ Welcome to my Arduino Simulation Projects repository! This repo contains various
 
 This repository contains a collection of Arduino simulation projects developed using Tinkercad Circuits. Each project demonstrates key concepts in embedded systems, automation, and sensor integration using the Arduino platform. These simulations are designed to provide a hands-on learning experience without the need for physical hardware.
 
+
+
+
+
+
  **Project Overview**
  
 
@@ -16,20 +21,19 @@ The projects in this repository showcase fundamental Arduino applications throug
 
 
 
-**T Tools Used**
+
+
+**Tools Used**
 
 
 Tinkercad Circuits 
-
-Arduino UNO (Simulated) 🟦
-
+Arduino UNO (Simulated) 
 Servo Motors, Ultrasonic Sensors, Buzzers, LEDs, Keypads etc.
-
 Programming Language: Arduino (C/C++)
 
 
 
-**live simulation **
+**live simulation**
 
 You can explore and run the simulations directly Tinkercad:
 
@@ -54,7 +58,10 @@ You can explore and run the simulations directly Tinkercad:
 
 
 
+
+
 **Contribution**
+
 
 Contributions, suggestions, and improvements are highly appreciated. If you'd like to contribute:
 
@@ -68,13 +75,19 @@ For major changes, please open an issue first to discuss what you'd like to modi
 
 For any queries, feel free to reach out:
 
-GitHub: YourGitHubUsername
-Email: your.email@example.com
+E-mail: alrafisiddiquee4@gmail.com 
 
 
 
-Alrafi Siddiquee Jim 
-KUET EEE
+
+
+
+
+**Author**
+
+ Alrafi Siddiquee Jim 
+	
+ KUET EEE
 
 
 
